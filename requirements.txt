@@ -1,13 +1,12 @@
-httplib2==0.8
-python-dateutil==2.2
+#
+# (c) 2016 Boundless, http://boundlessgeo.com
+# This code is licensed under the GPL 2.0 license.
+#
+python-dateutil
 requests==2.5.0
-
-https://github.com/boundlessgeo/gsconfig.git#egg=gsconfig
-https://github.com/boundlessgeo/gsimporter.git#egg=gsimporter
+qgiscommons
+httplib2
 
 # test requirements
-nose==1.3.0
-nose-html==1.1
-coverage==3.7
 
 
